@@ -1,5 +1,12 @@
 # PycoBank
 
+> [!WARNING]
+> This project is under active development and does not yet have a stable
+> release. Its code has been generated with AI assistance and has not yet been
+> fully reviewed by a human. Do not rely on it for production or safety-critical
+> use without performing your own thorough review and validation.
+
+
 PycoBank builds a local SQLite database from the public MycoBank `MBList.zip`
 export and provides a small Python API and CLI for nomenclatural searches.
 
